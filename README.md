@@ -1,2 +1,2 @@
-# brygada---hotel
-Dla Lidera
+# Team Brygada 
+Projekt - hotel
